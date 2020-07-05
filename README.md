@@ -15,7 +15,7 @@ And then ensemble these model to improve our results<br>
 <i>Plus</i>, We will be using grid search optimation to tune our hyperparameters for best results.</br>
 
 # Get started
-``` Start your jupter notebook and dig in```
+``` Start your jupter notebook and dig in```<br>
 ```Alternatively review the code yourself and make your own python (py) file and run from CMD```
 
-Feel free to contribute with 
+Feel free to contribute with ❤️
